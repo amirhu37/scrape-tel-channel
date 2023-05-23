@@ -10,7 +10,7 @@ api_hash = 'api_hash'
 session_name = 'session_file_name'
 
 # Configure the target channel username or ID
-channel_link  = -1001410159417
+channel_link  = "int user ID"
 
 # Initialize the Telegram client
 client = TelegramClient(session_name, api_id, api_hash)
